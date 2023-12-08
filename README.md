@@ -1,7 +1,9 @@
 # Covid-19
 
 To view this Tableau Dashboard, click over the link mentioned below:
-(Covid-19 Tableau Dashboard)[https://public.tableau.com/app/profile/akash.deep4789/viz/Covid19_17019891867670/Dashboard1]
+--
+
+[Covid-19 Tableau Dashboard](https://public.tableau.com/app/profile/akash.deep4789/viz/Covid19_17019891867670/Dashboard1)
 
 EDA using Tableau Dashboarding
 ------------------------------
